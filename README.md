@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **a platform for tracking warm-up exercises (jumping jacks)**
 - 🌱 I’m currently learning Python and Django
 - 💬 Ask me about **React and TypeScript**
-- 📫 How to reach me: **linkedin.com/in/vitorlbrasil**
+- 📫 How to reach me: **https://linkedin.com/in/vitorlbrasil**
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I wish I had a pet rat 🐀
 
