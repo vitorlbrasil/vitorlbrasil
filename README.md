@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **a platform for tracking warm-up exercises (jumping jacks)**
-- 🌱 I’m currently learning **Python and Django** at **Kenzie Academy Brasil**
+<!-- - 🔭 I’m currently working on **a platform for tracking warm-up exercises (jumping jacks)** -->
+- 🌱 I’m currently learning **Next.js**
 - 💬 Ask me about **React and TypeScript**
 - 📫 How to reach me: **https://linkedin.com/in/vitorlbrasil**
 - 😄 Pronouns: **He/Him**
