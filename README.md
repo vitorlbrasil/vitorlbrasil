@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!-- - 🔭 I’m currently working on **a platform for tracking warm-up exercises (jumping jacks)** -->
-- 🌱 I’m currently learning **Liquid**
-- 💬 Ask me about **React and TypeScript**
+- 🌱 I’m currently learning **Next.js**
+- 💬 Ask me about **React and Node.js**
 - 📫 How to reach me: **https://linkedin.com/in/vitorlbrasil**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I wish I had a **pet rat** 🐀
